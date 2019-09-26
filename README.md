@@ -27,5 +27,5 @@ The software was derived from PGMPY under MIT Licence under [MIT License](https:
 ## Acknowledgements
 
 - Code derived from [PGMPY](https://github.com/pgmpy/pgmpy)
-- Technical Inspiration from [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Software)
+- Technical Inspiration from David Barber's Textbook [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Software)
 - Stanford Graphical Models [resource](https://ai.stanford.edu/~koller/Papers/Koller+al:SRL07.pdf)
